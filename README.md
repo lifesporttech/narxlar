@@ -1,0 +1,2 @@
+# narxlar
+narxlar
